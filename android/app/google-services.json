@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103379551308",
+    "project_id": "chatbottapp2024",
+    "storage_bucket": "chatbottapp2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103379551308:android:002e5ae2e080182dd7a0e9",
+        "android_client_info": {
+          "package_name": "com.example.chatbotapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFhsUztnzDyos9fZGl5254xB1DhPttxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
